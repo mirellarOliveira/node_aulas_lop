@@ -16,12 +16,4 @@ barra(frase.length);
 console.log(`${ch} ${frase} ${ch}`);
 barra(frase.length);
 
-// const ch = '█';
-// for (let i=0 ; i<frase.length+4 ; i++){
-//     process.stdout.write(ch);
-// }
-// console.log(`\n${ch} ${frase} ${ch}`);
-// for (let i=0 ; i<frase.length+4 ; i++){
-//     process.stdout.write(ch);
-// }
 
